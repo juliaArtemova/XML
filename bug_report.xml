@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bug_report_structure>
+    <ID>номер</ID>
+    <project>проект</project>
+    <environment>окружающая среда</environment>
+    <precondition>предварительное условие</precondition>
+    <title>название</title>
+    <link>ссылка</link>
+    <steps_to_reproduce>шаги воспроизведения</steps_to_reproduce>
+    <actual_result>фактический результат</actual_result>
+    <expected_result>ожидаемый результат</expected_result>
+    <additional_information>дополнения</additional_information>
+</bug_report_structure>
